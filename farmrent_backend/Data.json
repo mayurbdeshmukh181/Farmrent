@@ -1,0 +1,74 @@
+[
+  {
+    "equipmentName": "Mahindra Cutter",
+    "name": "Pratyush",
+    "category": "Harvester",
+    "description": "A powerful 50 HP tractor suitable for farming and hauling tasks.",
+    "dailyRate": 1500,
+    "hourlyRate": 150,
+    "location": "Bangalore",
+    "equipmentUrl": "https://image.made-in-china.com/2f0j00kVhoZCgzbprv/Wd-130HP-New-Design-Wholesale-Farm-Tractor-Wheeled-Tractors-for-Agriculture.webp",
+    "ordered": "ameya",
+    "rented": "true"
+  },
+  {
+    "equipmentName": "Johndeer excavator",
+    "name": "Pratyush",
+    "category": "Excavator",
+    "description": "A powerful 50 HP tractor suitable for farming and hauling tasks.",
+    "dailyRate": 1500,
+    "hourlyRate": 150,
+    "location": "Bangalore",
+    "equipmentUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DzqFJ-uX4N9Hm1AO-o88YUgG40sl6WPJTg&s",
+    "ordered": "",
+    "rented": "false"
+  },
+  {
+    "equipmentName": "John Deere 5050D Tractor",
+    "name": "ameya",
+    "category": "Tractor",
+    "description": "A powerful 50 HP tractor suitable for farming and hauling tasks.",
+    "dailyRate": 1500,
+    "hourlyRate": 150,
+    "location": "Bangalore",
+    "equipmentUrl": "https://cdn.britannica.com/01/125601-004-BF4425DC/Combine-harvester.jpg",
+    "ordered": "",
+    "rented": "false"
+  },
+  {
+    "equipmentName": "Mahindra 575 DI XP Plus",
+    "name": "ameya",
+    "category": "Tractor",
+    "description": "Reliable and fuel-efficient tractor ideal for agricultural applications.",
+    "dailyRate": 1400,
+    "hourlyRate": 140,
+    "location": "Pune",
+    "equipmentUrl": "https://images.unsplash.com/photo-1614977645968-6db1d7798ac7?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFybSUyMG1hY2hpbmVyeXxlbnwwfHwwfHx8MA%3D%3D",
+    "ordered": "",
+    "rented": "false"
+  },
+  {
+    "equipmentName": "CAT 320 Excavator",
+    "name": "mayur",
+    "category": "Excavator",
+    "description": "Heavy-duty excavator suitable for construction and digging operations.",
+    "dailyRate": 7000,
+    "hourlyRate": 700,
+    "location": "Hyderabad",
+    "equipmentUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSEi24sIGQ2ErfKbHiZYZBPDav4bCPyG5oVg&s",
+    "ordered": "",
+    "rented": "false"
+  },
+  {
+    "equipmentName": "Cultivator",
+    "name": "ameya",
+    "category": "Tractor",
+    "description": "abc",
+    "dailyRate": 1000,
+    "hourlyRate": 98,
+    "location": "Mumbai",
+    "equipmentUrl": "https://tiimg.tistatic.com/fp/1/006/460/agriculture-cultivator-229.jpg",
+    "ordered": "",
+    "rented": "false"
+  }
+]
