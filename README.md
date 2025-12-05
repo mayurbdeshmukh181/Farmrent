@@ -77,7 +77,7 @@ FarmRent aims to standardize access to machinery and labour through a simple dig
 - Track ongoing and upcoming bookings  
 - Manage cancellations or updates  
 
-### (Future) Owner Dashboard
+### 4⃣ Owner Dashboard
 - Machinery listing management  
 - Income tracking  
 - Booking approvals  
@@ -99,7 +99,7 @@ FarmRent aims to standardize access to machinery and labour through a simple dig
 3. Choose worker  
 4. Confirm booking  
 
-### C. Owner Flow (Future Scope)
+### C. Owner Flow 
 1. Add machinery  
 2. Set pricing  
 3. Publish listing  
